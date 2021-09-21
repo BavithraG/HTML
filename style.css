@@ -1,0 +1,13 @@
+body{}
+    
+
+h1{
+    text-transform: uppercase;
+    color: white;
+    background-color: blue;
+}
+    h3{
+        color: white;
+        background-color: blue;
+        text-transform: uppercase;
+    }
